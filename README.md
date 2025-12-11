@@ -1,7 +1,9 @@
 # Software-Engineering-Project
 
 
-Brief description of your project goes here.
+project is about a training management system
+roles: admin-instructor-trainee
+
 
 ## Team Members
 - Amira Mohammed Soliman Alzaian
@@ -14,5 +16,9 @@ Brief description of your project goes here.
 
 ## Links
 - [Project Website](https://example.com)
-  
+
+## Features
+- trainee can navigate his courses, sessions and progress
+- instructor can veiw students in courses, sessiona and progress
+- Admin can control of everything at the system
 
