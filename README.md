@@ -6,16 +6,16 @@ project is about a training management system
 
 
 ## Team Members
-- Amira Mohammed Soliman Alzaian
-- Tasnim Alkatib Mohammed
-- Batoul Marous Alatrsh
+- Amira Mohammed Alzaian
+- Tasnim Alkhatib Mohammed
+- Batoul Mahrous Alatrsh
 - Bassant Mohammed AlKomy
-- Reham Mohammed
+- Reham Mohammed 
 - Mariam Ahmed Mousa
 - Hanin Mahmoud
 
 ## Links
-- [Project Website](https://example.com)
+- [project video](https://drive.google.com/drive/folders/1YwRhfPF-1B--OaDgEtsYYZslBY_4uxZ2?usp=drive_link)
 
 ## Features
 - trainee can navigate his courses, sessions and progress
