@@ -2,7 +2,7 @@
 
 
 project is about a training management system
-roles: admin-instructor-trainee
+- roles: admin-instructor-trainee
 
 
 ## Team Members
